@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcoscasssiano
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular, typescript and a little Java.
+- 🌱 I’m currently learning javascript, reactJS and a little Java.
 - 📫 If you want to talk to me just send me an email!
 - :brazil: My native language is the portuguese! 	:v:
 <!---
