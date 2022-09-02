@@ -27,7 +27,7 @@
 <br/>
 <p align="left">
   
-  ## 📫 My social media
+  ## 📫 Contacts
   <p>
     <a href="https://www.linkedin.com/in/marcoscassiano/" alt="Linkedin">
     <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=informational&link=" /></a>
