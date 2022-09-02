@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World! 👋🏼 I'm Marcos Cassiano</h1>
 
-## About me ##
+## About me
 
 *Com 25 anos, atualmente trabalho como **Técnico de Hardware** na **Via Consulting** e estudo **engenharia da computação** na **UNIVESP.***
 
@@ -10,7 +10,7 @@
 <br/>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="400px" width="400px" align="right" alt="notebook_and_coffe">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="400px" width="425px" align="right" alt="notebook_and_coffe">
 
 <p align="left">
 
@@ -40,14 +40,12 @@
 
 <br>
 
----
-
-<br>
+##
 
 <p align="center">
  
 <a href="https://github.com/marcoscasssiano/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscasssiano&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscasssiano&layout=compact" />
 </a>
 
 </p>
