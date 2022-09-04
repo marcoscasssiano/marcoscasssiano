@@ -31,7 +31,7 @@
   <p>
     <a href="https://www.linkedin.com/in/marcoscassiano/" alt="Linkedin">
     <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=informational&link=" /></a>
-    <a href="mailto:marcoscassiano@protonmail.com" alt="Proton Mail">
+    <a href="mailto: marcoscassiano@protonmail.com" alt="Proton Mail">
     <img src="https://img.shields.io/static/v1?label=&message=Proton%20Mail&color=blueviolet&link=" /></a>
     <a href="https://www.instagram.com/marcoscassaraiva/" alt="Instagram">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=critical" /></a>
