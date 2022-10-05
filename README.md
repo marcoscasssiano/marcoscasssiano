@@ -2,7 +2,7 @@
 
 ## About me
 
-*Com 25 anos, atualmente trabalho como **Técnico de Hardware** na **Via Consulting** e estudo **engenharia da computação** na **UNIVESP.***
+*Com 25 anos, atualmente sou **estagiário** na **Via Consulting** e estudo **engenharia da computação** na **UNIVESP.***
 
 *Sou um apaixonado por livros, música e tudo que envolva melhorias para a sociedade como um todo. :earth_americas::fist_right::fist_left::earth_africa:*
 
