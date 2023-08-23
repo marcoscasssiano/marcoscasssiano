@@ -2,11 +2,9 @@
 
 ## About me
 
-*Com 26 anos, atualmente sou **estagiário** na **Via Consulting** e estudo **Tecnologia da Informação** na **UNIVESP.***
+*Com 26 anos, atualmente sou **estagiário** na **Via Consulting** e estou no terceiro semestre do  **Bacharelado em Tecnologia da Informação** na **UNIVESP.***
 
 *Sou um apaixonado por livros, música e tudo que envolva melhorias para a sociedade como um todo. :earth_americas::fist_right::fist_left::earth_africa:*
-
-*Iniciando minha carreira como desenvolvedor*
 <br/>
 
 
@@ -20,6 +18,7 @@
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="json"/>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"/>
