@@ -2,7 +2,7 @@
 
    👋 Hi, I’m @marcoscasssiano<br>
    👀 I’m interested in web development and information security.<br>
-   🌱 I’m currently learning Cisco CLI, C and javascript.<br>
+   🌱 I’m currently learning Cisco CLI, C and TypeScript.<br>
    📫 If you want to talk to me, just send me an email!<br>
    🇧🇷 My native language is Portuguese! ✌️
 
