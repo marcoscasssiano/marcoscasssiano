@@ -1,8 +1,8 @@
 <div align="center">
 
    👋 Hi, I’m @marcoscasssiano<br>
-   👀 I’m interested in web development and information security.<br>
-   🌱 I’m currently learning AngularJS, C and TypeScript.<br>
+   👀 I’m interested in information security.<br>
+   🌱 I’m currently learning computer networks, python and defensive sec.<br>
    📫 If you want to talk to me, just send me an email!<br>
    🇧🇷 My native language is Portuguese! ✌️
 
